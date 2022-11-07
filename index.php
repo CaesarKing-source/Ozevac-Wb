@@ -83,7 +83,7 @@
                 appropriate medical help and transfer either by Air Ambulance or
                 Commercial Airline.
               </p>
-              <a href="#" class="btn">Read More</a>
+              <a href="https://kssproduction.com/ozevac-test/what-we-do/" class="btn">Read More</a>
             </div>
           </div>
           <div class="col" data-aos="fade-up">
@@ -98,7 +98,7 @@
                 Our expertise lies with the people we work with and the
                 relationships we have made with professionals around the world.
               </p>
-              <a href="#" class="btn">Read More</a>
+              <a href="https://kssproduction.com/ozevac-test/who-we-help/" class="btn">Read More</a>
             </div>
           </div>
           <div class="col" data-aos="fade-up">
@@ -114,7 +114,7 @@
                 personalised, high quality service. We offer all of the medical
                 services available from large Assistance Companies.
               </p>
-              <a href="#" class="btn">Read More</a>
+              <a href="https://kssproduction.com/ozevac-test/about/" class="btn">Read More</a>
             </div>
           </div>
         </div>
