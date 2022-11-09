@@ -57,7 +57,7 @@
                             </a>
                         </div>
                         <div class="img-box">
-                            <a href="https://kssproduction.com/ozevac-test/zoll/">
+                            <a href="https://www.zoll.com/au">
                                 <figure>
                                     <img src="<?php bloginfo('template_directory'); ?>/images/zoll.png" alt="">
                                 </figure>
@@ -77,6 +77,13 @@
                                 </figure>
                             </a>
                         </div>
+                        <div class="img-box">
+                            <a href="#">
+                                <figure>
+                                    <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                                </figure>
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div class="poduct-detail" data-aos="fade-up">
@@ -88,7 +95,6 @@
                             needs now and moving forward. Likely half the weight of what you carry today, it delivers
                             the capabilities you expect from a full-featured monitor designed for use with all patients,
                             ranging from neonates through adults.</p>
-                        <p>The Zoll AED Pro is the same piece of equipment and the link connects the way it should.</p>
                         <a href="https://www.zoll.com" target="_blank" class="btn">Read More</a>
                     </div>
                     <div class="img__box">

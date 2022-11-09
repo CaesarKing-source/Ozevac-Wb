@@ -3,7 +3,7 @@
 <footer>
       <div class="logo">
         <a href="./homepage.html">
-          <h1>Ozevac <span>Aeromedical Retrieval Specialists</span></h1>
+          <!--<h1>Ozevac <span>Aeromedical Retrieval Specialists</span></h1> -->
         </a>
       </div>
       <div class="copy-right">
