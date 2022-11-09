@@ -19,7 +19,7 @@
 
     <div class="what-do-text">
         <div class="container">
-            <h2 data-aos="fade-up">What Ozevac Do</h2>
+            <h2 data-aos="fade-up">What Ozevac Does</h2>
             <div class="row flex">
                 <div class="col" data-aos="fade-up">
                     <h4>Ozevac</h4>

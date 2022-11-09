@@ -50,7 +50,7 @@
                             </a>
                         </div>
                         <div class="img-box">
-                            <a href="">
+                            <a href="https://www.jetcity.com.au/">
                                 <figure>
                                     <img src="<?php bloginfo('template_directory'); ?>/images/jetcity.png" alt="">
                                 </figure>
@@ -78,7 +78,7 @@
                             </a>
                         </div>
                         <div class="img-box">
-                            <a href="#">
+                            <a href="https://www.fresenius.com/">
                                 <figure>
                                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
                                 </figure>
@@ -88,13 +88,13 @@
                 </div>
                 <div class="poduct-detail" data-aos="fade-up">
                     <div class="text-box">
-                        <h4>ZOLL X Series Monitor/Defibrillator</h4>
-                        <p>In the ever-changing world of EMS, you need to ensure the monitor/defibrillator you buy today
-                            will keep pace with the progressive vision of pre-hospital care.</p>
-                        <p>The ZOLL X Series® Monitor/Defibrillator, built on an expandable platform, addresses EMS
-                            needs now and moving forward. Likely half the weight of what you carry today, it delivers
-                            the capabilities you expect from a full-featured monitor designed for use with all patients,
-                            ranging from neonates through adults.</p>
+                        <h2>ZOLL X Series Monitor/Defibrillator</h2>
+                        <!-- <p>In the ever-changing world of EMS, you need to ensure the monitor/defibrillator you buy today
+                            will keep pace with the progressive vision of pre-hospital care.</p> -->
+                        <p>
+                        The ZOLL X Series® Monitor/Defibrillator, built on an expandable platform, addresses EMS needs now and in the future.
+                        It is light and yet delivers the capabilities of a full-featured monitor designed for use with all patients, ranging from neonates through adults.
+                        </p>
                         <a href="https://www.zoll.com" target="_blank" class="btn">Read More</a>
                     </div>
                     <div class="img__box">
@@ -104,18 +104,17 @@
                     </div>
                 </div>
                 <div class="ems-project" data-aos="fade-up">
-                    <h2>Z Vent for EMS</h2>
+                    <h2>Z Vent®  - Ventilation SimplifiedTM</h2>
                     <figure>
                         <img src="<?php bloginfo('template_directory'); ?>/images/Z-Vent-for-EMS.jpg" alt="">
                     </figure>
-                    <p>The Z Vent® ventilator is easy to use, portable, durable, and rugged. Designed to be lightweight
-                        and energy-efficient, Z Vent is ideal for all types of transport: ground ambulances, critical
-                        care transports, and air transports.</p>
-                    <p>Weighing less than 10 pounds (4.5kg), with a battery runtime of 10 hours, Z Vent is the ideal
-                        portable ventilator supporting infants through adults. The ruggedized housing is built to
-                        military standards, withstanding the elements that EMS personnel may face on any given day. With
-                        an integrated energy-efficient compressor, Z Vent helps conserve oxygen during transports where
-                        every bit of oxygen counts.</p>
+                    <p>The Zoll Z Vent® is the ideal transport ventilator designed for both pre-hospital and intra-hospital use.
+                       It is lightweight at 4.5kgs, energy-efficient with a battery run time of 10 hours and is ideal for all types of transport: 
+                        ground ambulances, critical care transports, and air transports.</p>
+
+                    <p>The Z Vent is the ideal portable ventilator supporting infants through to adults.
+                        With an integrated energy-efficient compressor, Z Vent helps conserve oxygen during transports where every bit of oxygen counts. 
+                        It also offers the option of low flow capability which enables the use of non invasive ventilation for transports where it may not be otherwise possible</p>
                     
                 </div>
                 <div class="ems-project agilia">

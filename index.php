@@ -94,10 +94,8 @@
             </div>
             <div class="text">
               <h3>Who We Help</h3>
-              <p>
-                Our expertise lies with the people we work with and the
-                relationships we have made with professionals around the world.
-              </p>
+              <p>You! We will find a solution to your medevac needs whatever your circumstances,
+                 whoever is affected by injury or illness away from home. </p>
               <a href="https://kssproduction.com/ozevac-test/who-we-help/" class="btn">Read More</a>
             </div>
           </div>

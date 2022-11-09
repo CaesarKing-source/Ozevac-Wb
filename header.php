@@ -28,16 +28,24 @@
 
 <div class="top-bar">
       <div class="container">
-        <div class="top-bar__left">
-          <a href="tel:1300 000 000" class="top-bar__phone"
-            ><i class="fa fa-phone"></i> 1300 000 000</a>
+        <ul>
+          <li>
+            <b>Outside Australia:</b>
+            <a href="tel:+61 409 537 333">+61 409 537 333</a>
+          </li>
+          <li>
+            <b>Within Australia:</b><a href="tel:0409 537 333">0409 537 333</a>
+          </li>
+          <li>
+            <b>E-Mail:</b><a href="mailto:info@ozevac.com">info@ozevac.com</a>
+          </li>
+        </ul>
       </div>
     </div>
     <header>
       <div class="inner-header">
         <div class="container flex justify-content align-center">
           <div class="logo">
-            <h1 style="text-align: start; color: white;">KSS IT Group</h1>
             <a href="./homepage.html">
               <figure>
                 <img src="<?php bloginfo('template_directory'); ?>/images/logo.gif" alt="" />
