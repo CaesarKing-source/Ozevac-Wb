@@ -24,8 +24,6 @@
   </head>
 
   <body>
-
-
 <div class="top-bar">
       <div class="container">
         <ul>
