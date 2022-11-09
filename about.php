@@ -63,6 +63,11 @@
                                 </figure>
                             </a>
                         </div>
+                </div>
+
+
+                <div class="product-image" data-aos="fade-up">
+                    <div class="img-wrapper flex justify-content align-center">
                         <div class="img-box">
                             <a href="https://kssproduction.com/ozevac-test/exl-scoop-stretcher/">
                                 <figure>
@@ -86,6 +91,34 @@
                         </div>
                     </div>
                 </div>
+            </div>
+
+
+            <div class="image-banner">
+                <div class="box1">
+                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                </div>
+
+                <div class="box1">
+                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                </div>
+                <div class="box1">
+                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                </div>
+                <div class="box1">
+                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                </div>
+                <div class="box1">
+                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                </div>
+                <div class="box1">
+                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                </div>
+            </div>
+                
+
+
+
                 <div class="poduct-detail" data-aos="fade-up">
                     <div class="text-box">
                         <h2>ZOLL X Series Monitor/Defibrillator</h2>

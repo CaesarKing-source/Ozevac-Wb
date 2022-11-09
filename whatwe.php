@@ -54,7 +54,7 @@
             <div class="row">
                 <div class="col" data-aos="fade-up">
                     <figure>
-                        <img src="<?php bloginfo('template_directory'); ?>/images/what-we-do.jpg" alt="">
+                        <img src="<?php bloginfo('template_directory'); ?>/images/contact.jpg" alt="">
                     </figure>
                 </div>
                 <div class="col text-box" data-aos="fade-up">
@@ -100,7 +100,7 @@
                 </div>
                 <div class="col" data-aos="fade-up">
                     <figure>
-                        <img src="<?php bloginfo('template_directory'); ?>/images/contact.jpg" alt="">
+                        <img src="<?php bloginfo('template_directory'); ?>/images/what-we-do.jpg" alt="">
                     </figure>
                 </div>
             </div>
