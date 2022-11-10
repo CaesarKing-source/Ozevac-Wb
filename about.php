@@ -63,11 +63,6 @@
                                 </figure>
                             </a>
                         </div>
-                </div>
-
-
-                <div class="product-image" data-aos="fade-up">
-                    <div class="img-wrapper flex justify-content align-center">
                         <div class="img-box">
                             <a href="https://kssproduction.com/ozevac-test/exl-scoop-stretcher/">
                                 <figure>
@@ -89,34 +84,7 @@
                                 </figure>
                             </a>
                         </div>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="image-banner">
-                <div class="box1">
-                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
-                </div>
-
-                <div class="box1">
-                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
-                </div>
-                <div class="box1">
-                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
-                </div>
-                <div class="box1">
-                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
-                </div>
-                <div class="box1">
-                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
-                </div>
-                <div class="box1">
-                     <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
-                </div>
-            </div>
-                
-
+                </div> </div>
 
 
                 <div class="poduct-detail" data-aos="fade-up">
@@ -149,6 +117,24 @@
                         With an integrated energy-efficient compressor, Z Vent helps conserve oxygen during transports where every bit of oxygen counts. 
                         It also offers the option of low flow capability which enables the use of non invasive ventilation for transports where it may not be otherwise possible</p>
                     
+                </div>
+                <div class="poduct-detail" data-aos="fade-up">
+                    <div class="text-box">
+                        <h2>Fresenius Medical Device</h2>
+                        <!-- <p>In the ever-changing world of EMS, you need to ensure the monitor/defibrillator you buy today
+                            will keep pace with the progressive vision of pre-hospital care.</p> -->
+                        <p>
+                        Weighing just over 2 kgs with a battery life of 10hours at 5mls/hour, these lightweight syringe pumps are ideal units for use when transporting patients.
+                        They can be used with syringes ranging in size from 5 to 60mls and have the safety and convenience and safety of a drug library for up to 50 agents    
+                    
+                    </p>
+                        <a href="https://www.zoll.com" target="_blank" class="btn">Read More</a>
+                    </div>
+                    <div class="img__box">
+                        <figure>
+                            <img src="<?php bloginfo('template_directory'); ?>/images/fresenius.png" alt="">
+                        </figure>
+                    </div>
                 </div>
                 <div class="ems-project agilia">
                     <h2 data-aos="fade-up">Injectomat Agilia®</h2>

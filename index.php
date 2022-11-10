@@ -42,12 +42,27 @@
               </div>
               <div>
                 <figure>
+                  <img src="<?php bloginfo('template_directory'); ?>/images/slider2.jpg" alt="" />
+                </figure>
+              </div>
+              <div>
+                <figure>
+                  <img src="<?php bloginfo('template_directory'); ?>/images/what-we-do.jpg" alt="" />
+                </figure>
+              </div>
+              <div>
+                <figure>
                   <img src="<?php bloginfo('template_directory'); ?>/images/Amb-Qantas.jpg" alt="" />
                 </figure>
               </div>
               <div>
                 <figure>
                   <img src="<?php bloginfo('template_directory'); ?>/images/what-we-help.jpg" alt="" />
+                </figure>
+              </div>
+              <div>
+                <figure>
+                  <img src="<?php bloginfo('template_directory'); ?>/images/home-banner.jpg" alt="" />
                 </figure>
               </div>
               <div>
@@ -142,7 +157,7 @@
                 <li>
                   Within Australia:<a href="tel:0409 537 333">0409 537 333</a>
                 </li>
-                <li>E-Mail:<a href="info@ozevac.com">info@ozevac.com</a></li>
+                <li>E-Mail:<a href="mailto:info@ozevac.com">info@ozevac.com</a></li>
               </ul>
             </div>
           </div>
