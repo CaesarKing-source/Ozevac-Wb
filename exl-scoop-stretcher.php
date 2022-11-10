@@ -7,6 +7,7 @@
   <div class="container">
     <div class="row flex justify-content align-center pd-100">
       <div class="img__box" data-aos="fade-up">
+        <h2>EXL Scoop stretcher</h2>
         <p>
           A scoop stretcher is used to recover patients from the field and
           transfer them to a more sophisticated stretcher on the aircraft. Two

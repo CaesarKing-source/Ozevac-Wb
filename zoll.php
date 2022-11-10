@@ -8,7 +8,7 @@
         <div class="row flex justify-content align-center">
           <div class="img__box" data-aos="fade-up">
             <h4>
-              Superior Care and Portability in One Compact Defibrillator Unit
+                Superior Care and Portability in One Compact Defibrillator Unit
             </h4>
             <p>
               When you’re transporting critical care patients, you need to have

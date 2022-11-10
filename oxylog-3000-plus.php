@@ -8,6 +8,7 @@
         <div class="container">
             <div class="row flex justify-content align-center pd-100">
                 <div class="img__box" data-aos="fade-up">
+                    <h2>Oxylog 3000 Plus</h2>
                     <p>The Oxylog 3000 plus is an advanced transport ventilator with specific features which makes it
                         suitable for the transport of paediatric patients and those patients with more complex
                         ventilation requirements.</p>

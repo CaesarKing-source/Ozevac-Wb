@@ -7,6 +7,9 @@
   <div class="container">
     <div class="row flex justify-content align-center pd-100">
       <div class="img__box" data-aos="fade-up">
+        <h2>
+            Zoll AED Pro Device
+        </h2>
         <p>
         Whether used in a hospital or in the field, the new ZOLL AED Pro® is designed to perform in any environment. It provides the ruggedness, portability, 
         and advanced functionality that professional rescuers and services require from an automated external defibrillator (AED).

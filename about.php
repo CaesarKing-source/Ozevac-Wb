@@ -96,7 +96,7 @@
                         The ZOLL X Series® Monitor/Defibrillator, built on an expandable platform, addresses EMS needs now and in the future.
                         It is light and yet delivers the capabilities of a full-featured monitor designed for use with all patients, ranging from neonates through adults.
                         </p>
-                        <a href="https://www.zoll.com" target="_blank" class="btn">Read More</a>
+                        <a href="https://kssproduction.com/ozevac-test/zoll/" target="_blank" class="btn">Read More</a>
                     </div>
                     <div class="img__box">
                         <figure>
@@ -104,6 +104,26 @@
                         </figure>
                     </div>
                 </div>
+
+                <div class="poduct-detail" data-aos="fade-up">
+                    <div class="text-box">
+                        <h2>ZOLL AED Pro</h2>
+                        <p>The AED Pro has a robust design with rubber over-moulds, built to withstand harsh environments. It is extremely resistant to dust 
+        and water jets and is the only AED in the industry to withstand a 1.5 metre drop test, making it a great choice for emergency medical transfers.</p>
+                        <p>
+                        This advanced AED features a high-resolution LCD display that allows responders to visualize a 
+        patient’s ECG while utilizing a 3-lead monitoring cable. It can be used in a semi-automatic mode for 
+        single operators with manual override for ALS professionals.
+                        </p>
+                        <a href="https://kssproduction.com/ozevac-test/zoll-aed-pro/" target="_blank" class="btn">Read More</a>
+                    </div>
+                    <div class="img__box">
+                        <figure>
+                            <img src="<?php bloginfo('template_directory'); ?>/images/AED_Pro.jpg" alt="">
+                        </figure>
+                    </div>
+                </div>
+
                 <div class="ems-project" data-aos="fade-up">
                     <h2>Z Vent®  - Ventilation SimplifiedTM</h2>
                     <figure>
@@ -121,13 +141,13 @@
                 <div class="poduct-detail" data-aos="fade-up">
                     <div class="text-box">
                         <h2>Fresenius Medical Device</h2>
-                        <!-- <p>In the ever-changing world of EMS, you need to ensure the monitor/defibrillator you buy today
-                            will keep pace with the progressive vision of pre-hospital care.</p> -->
-                        <p>
+                        <p>Weighing just over 2 kgs with a battery life of 10hours at 5mls/hour, these lightweight syringe pumps are ideal units for use when transporting patients.
+                        They can be used with syringes ranging in size from 5 to 60mls and have the safety and convenience and safety of a drug library for up to 50 agents</p>
+                        <!-- <p>
                         Weighing just over 2 kgs with a battery life of 10hours at 5mls/hour, these lightweight syringe pumps are ideal units for use when transporting patients.
                         They can be used with syringes ranging in size from 5 to 60mls and have the safety and convenience and safety of a drug library for up to 50 agents    
                     
-                    </p>
+                    </p> -->
                         <a href="https://www.zoll.com" target="_blank" class="btn">Read More</a>
                     </div>
                     <div class="img__box">
