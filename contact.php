@@ -11,7 +11,7 @@
                 <div class="col-30" data-aos="fade-up">
                     <h3>Let’s Start The Journey.</h3>
                     <p>Our hours are from 8 am to 6 pm Monday to Friday. Feel free to call us within these hours, we’d love to speak with you!</p>
-                    <a href="tel:(312) 428 9365" class="btn"> <i class="fa fa-phone" aria-hidden="true"></i>Call Us</a>
+                    <a href="tel:+61 409 537 333" class="btn"> <i class="fa fa-phone" aria-hidden="true"></i>Call Us</a>
                     <div class="contact__detail" data-aos="fade-up">
                         <h4>Email</h4>
                         <a href="mailto:info@ozevac.com">info@ozevac.com</a>

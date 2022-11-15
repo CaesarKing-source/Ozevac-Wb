@@ -34,7 +34,7 @@
           <li>
             <b>Within Australia:</b><a href="tel:0409 537 333">0409 537 333</a>
           </li>
-          <li><b>E-Mail:</b><a href="info@ozevac.com">info@ozevac.com</a></li>
+          <li><b>E-Mail:</b><a href="mailto:info@ozevac.com">info@ozevac.com</a></li>
         </ul>
       </div>
     </div>
