@@ -10,12 +10,12 @@
         <div class="container">
           <ul class="flex justify-content align-center">
             <li>© Copyright ozevac. All rights reserved</li>
-            <li class="socila icon">
+            <!-- <li class="socila icon">
               <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>

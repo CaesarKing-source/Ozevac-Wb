@@ -76,7 +76,7 @@
       </p>
       <h4 data-aos="fade-up">Embassies & consulates</h4>
       <p data-aos="fade-up">
-        Many patients may tu rn to an Embassy or Consulate for help in
+        Many patients may turn to an Embassy or Consulate for help in
         an emergency, who in turn can contact us.
       </p>
       <p data-aos="fade-up">
