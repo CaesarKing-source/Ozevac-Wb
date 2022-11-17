@@ -75,7 +75,7 @@
             </a>
           </div>
           <div class="img-box">
-            <a href="https://www.jetcity.com.au/">
+            <a href="https://www.jetcity.com.au/aeromedical/">
               <figure>
                 <img
                   src="<?php bloginfo('template_directory'); ?>/images/jetcity.png"
@@ -118,7 +118,7 @@
           </div>
           <div class="img-box">
             <a
-              href="https://www.freseniusmedicalcare.com/en/healthcare-professionals/healthcare-professionals-overview"
+              href="https://www.fresenius-kabi.com/in/products/injectomat-agilia"
             >
               <figure>
                 <img
@@ -211,7 +211,7 @@
           otherwise possible
         </p>
       </div>
-      <div class="poduct-detail fresenius" data-aos="fade-up">
+      <!-- <div class="poduct-detail fresenius" data-aos="fade-up">
         <div class="text-box">
           <h2>Fresenius Medical Device</h2>
           <p>
@@ -221,11 +221,6 @@
             in size from 5 to 60mls and have the safety and convenience and
             safety of a drug library for up to 50 agents
           </p>
-          <!-- <p>
-                        Weighing just over 2 kgs with a battery life of 10hours at 5mls/hour, these lightweight syringe pumps are ideal units for use when transporting patients.
-                        They can be used with syringes ranging in size from 5 to 60mls and have the safety and convenience and safety of a drug library for up to 50 agents    
-                    
-                    </p> -->
           <a
             href="https://www.freseniusmedicalcare.com/en/healthcare-professionals/healthcare-professionals-overview"
             class="btn"
@@ -240,7 +235,7 @@
             />
           </figure>
         </div>
-      </div>
+      </div> -->
       <div class="ems-project agilia">
         <h2 data-aos="fade-up">Injectomat Agilia®</h2>
         <p data-aos="fade-up">

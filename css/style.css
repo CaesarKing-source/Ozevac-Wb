@@ -279,8 +279,6 @@ footer h1 span{
     font-size: 9px;
     width: 100%;
     line-height: 1.1;
-    padding-left: 44px;
-    margin-top: -6px;
 }
 footer .logo{
     width: 100%;
@@ -291,6 +289,7 @@ footer .logo{
 }
 footer .logo h1{
     color: #fff;
+    margin-right: 34px;
 }
 footer .f-menu ul{
     padding: 24px 0;
@@ -299,9 +298,11 @@ footer .f-menu ul{
     align-items: center;
     justify-content: center;
 }
-footer .f-menu ul li{
+/* footer .f-menu ul li{
     margin-right: 50px;
-}
+} */
+
+
 footer .f-menu ul li:nth-last-of-type(1){
     margin-right: 0px;
 }
@@ -312,7 +313,9 @@ footer li a, footer li{
 }
 footer ul{
     padding-right: 50px;
+    
 }
+
 footer li.socila a{
     margin-right: 6px;
     transition: all .5s ease-in-out;
@@ -328,6 +331,10 @@ footer li.socila a:nth-last-of-type(1){
 }
 footer .copy-right{
     padding: 20px 0;
+}
+
+footer .copy-right li {
+    margin: 0 auto;
 }
 .header{
     position: inherit;

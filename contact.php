@@ -17,8 +17,9 @@
                         <a href="mailto:info@ozevac.com">info@ozevac.com</a>
                         <h4>Phone Number</h4>
                         <ul>
-                            <li>Office: <a href="tel:+61 409 537 333">+61 409 537 333</a></li>
-                            <li>Cell: <a href="tel:0409 537 333">0409 537 333</a></li>
+                            <li>In Australia: <a href="tel:0409 537 333">0409 537 333</a></li>
+                            <li>International: <a href="tel:+61 409 537 333">+61 409 537 333</a></li>
+                            
                         </ul>
                         <h4>We Are Available</h4>
                         <ul>

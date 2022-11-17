@@ -15,7 +15,9 @@
     </figure>
     <div class="text">
       <h2>Who We Can Help</h2>
-      <p> You ! <br>
+      <p> 
+      <span style="font-size: 22px; margin-left: 44px; font-weight: bold; display: block; margin-bottom: -14px"><em>You !</em></span>
+      <br>
         We will find a solution to your medevac needs whatever your
         circumstances, whoever is affected by injury or illness away from home.
         Individuals, family members, Insurance Companies, Government Agencies –

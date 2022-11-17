@@ -35,6 +35,11 @@
           </div>
           <div class="col">
             <div class="home-banner-slider">
+            <div>
+                <figure>
+                  <img src="<?php bloginfo('template_directory'); ?>/images/11.jpg" alt="" />
+                </figure>
+              </div>
               <div>
                 <figure>
                   <img src="<?php bloginfo('template_directory'); ?>/images/about-us.jpeg" alt="" />
@@ -108,7 +113,7 @@
               </figure>
             </div>
             <div class="text">
-              <h3>Who We Help</h3>
+              <h3>Who Do We Help</h3>
               <p>You! We will find a solution to your medevac needs whatever your circumstances,
                  whoever is affected by injury or illness away from home. </p>
               <a href="https://kssproduction.com/ozevac-test/who-we-help/" class="btn">Read More</a>
