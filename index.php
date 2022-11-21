@@ -35,11 +35,6 @@
           </div>
           <div class="col">
             <div class="home-banner-slider">
-            <div>
-                <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/11.jpg" alt="" />
-                </figure>
-              </div>
               <div>
                 <figure>
                   <img src="<?php bloginfo('template_directory'); ?>/images/about-us.jpeg" alt="" />
@@ -47,7 +42,7 @@
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/slider2.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/11.jpg" alt="" />
                 </figure>
               </div>
               <div>
@@ -57,7 +52,7 @@
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/Amb-Qantas.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/slider2.png" alt="" />
                 </figure>
               </div>
               <div>
@@ -67,12 +62,12 @@
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/home-banner.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/10.jpg" alt="" />
                 </figure>
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/home-banner2.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/12.jpg" alt="" />
                 </figure>
               </div>
             </div>
