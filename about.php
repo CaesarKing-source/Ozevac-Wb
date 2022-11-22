@@ -63,7 +63,7 @@
       </ul>
       <div class="product-image" data-aos="fade-up">
         <h2>We are proud to use the equipment and services of:</h2>
-        <div class="img-wrapper flex justify-content align-center">
+        <div class="img-wrapper flex align-center">
           <div class="img-box">
             <a href="https://kssproduction.com/ozevac-test/laerdal/">
               <figure>
@@ -74,16 +74,7 @@
               </figure>
             </a>
           </div>
-          <div class="img-box">
-            <a href="https://www.jetcity.com.au/aeromedical/">
-              <figure>
-                <img
-                  src="<?php bloginfo('template_directory'); ?>/images/jetcity.png"
-                  alt=""
-                />
-              </figure>
-            </a>
-          </div>
+          
           <div class="img-box">
             <a href="https://www.zoll.com/au">
               <figure>
@@ -138,7 +129,7 @@
             The ZOLL X Series® Monitor/Defibrillator, built on an expandable
             platform, addresses EMS needs now and in the future. It is light and
             yet delivers the capabilities of a full-featured monitor designed
-            for use with all patients, ranging from neonates through adults.
+            for use with all patients, ranging from neonates through to adults.
           </p>
           <a href="https://kssproduction.com/ozevac-test/zoll/" class="btn"
             >Read More</a
@@ -211,7 +202,7 @@
           otherwise possible
         </p>
       </div>
-      <!-- <div class="poduct-detail fresenius" data-aos="fade-up">
+      <div class="poduct-detail fresenius" data-aos="fade-up">
         <div class="text-box">
           <h2>Fresenius Medical Device</h2>
           <p>
@@ -235,8 +226,42 @@
             />
           </figure>
         </div>
-      </div> -->
-      <div class="ems-project agilia">
+      </div>
+
+      <div class="poduct-detail agilia" data-aos="fade-up">
+        <div class="text-box">
+          <h2>Injectomat Agilia®</h2>
+          <p>
+            Injectomat Agilia, the new generation of stand alone syringe pumps.​
+          </p>
+          <div class="features">
+          <h4 data-aos="fade-up">Features</h4>
+          <ul data-aos="fade-up">
+            <li>
+              Flow rate range: 0.1- 200 ml/h (depending on the syringe capacity
+              - up to 1200 ml/h).
+            </li>
+            <li>Flow rate accuracy: ± 1% on mechanism ; ± 2 % on syringes.</li>
+            <li>Syringe capacities: 5, 10, 20, 30/35, 50/60 CC.</li>
+            </ul> </div>
+          <a
+            href="https://kssproduction.com/ozevac-test/injectomat/"
+            class="btn"
+            >Read More</a
+          >
+        </div>
+        <div class="img__box">
+          <figure>
+            <img
+              src="<?php bloginfo('template_directory'); ?>/images/agilia.jpg"
+              alt=""
+            />
+          </figure>
+          
+        </div>
+      </div>
+
+      <!-- <div class="ems-project agilia">
         <h2 data-aos="fade-up">Injectomat Agilia®</h2>
         <p data-aos="fade-up">
           Injectomat Agilia, the new generation of stand alone syringe pumps.​
@@ -293,9 +318,16 @@
             </li>
           </ul>
         </div>
+
+        
       </div>
-    </div>
-  </div>
-</div>
+      <a
+            href="https://kssproduction.com/ozevac-test/injectomat/"
+            class="btn"
+            >Read More</a
+          >
+    </div> -->
+  </div> 
+</div> 
 
 <?php get_footer(); ?>
