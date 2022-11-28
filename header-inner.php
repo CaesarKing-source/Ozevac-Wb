@@ -42,7 +42,7 @@
       <div class="inner-header">
         <div class="container flex justify-content align-center">
           <div class="logo">
-            <a href="./homepage.html">
+            <a href="<?php echo esc_url(home_url('/')) ?>">
               <figure>
                 <img src="<?php bloginfo('template_directory'); ?>/images/logo.gif" alt="" />
               </figure>
