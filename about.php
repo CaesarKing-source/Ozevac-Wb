@@ -202,48 +202,21 @@
           otherwise possible
         </p>
       </div>
-      <div class="poduct-detail fresenius" data-aos="fade-up">
-        <div class="text-box">
-          <h2>Fresenius Medical Device</h2>
-          <p>
-            Weighing just over 2 kgs with a battery life of 10hours at
-            5mls/hour, these lightweight syringe pumps are ideal units for use
-            when transporting patients. They can be used with syringes ranging
-            in size from 5 to 60mls and have the safety and convenience and
-            safety of a drug library for up to 50 agents
-          </p>
-          <a
-            href="https://www.freseniusmedicalcare.com/en/healthcare-professionals/healthcare-professionals-overview"
-            class="btn"
-            >Read More</a
-          >
-        </div>
-        <div class="img__box">
-          <figure>
-            <img
-              src="<?php bloginfo('template_directory'); ?>/images/fresenius-ob.png"
-              alt=""
-            />
-          </figure>
-        </div>
-      </div>
+      
 
       <div class="poduct-detail agilia" data-aos="fade-up">
         <div class="text-box">
           <h2>Injectomat Agilia®</h2>
           <p>
-            Injectomat Agilia, the new generation of stand alone syringe pumps.​
+            Weighing just over 2 kgs with a battery life of 10hours at
+            5mls/hour, these lightweight syringe pumps are ideal units for use
+            when transporting patients.
           </p>
-          <div class="features">
-          <h4 data-aos="fade-up">Features</h4>
-          <ul data-aos="fade-up">
-            <li>
-              Flow rate range: 0.1- 200 ml/h (depending on the syringe capacity
-              - up to 1200 ml/h).
-            </li>
-            <li>Flow rate accuracy: ± 1% on mechanism ; ± 2 % on syringes.</li>
-            <li>Syringe capacities: 5, 10, 20, 30/35, 50/60 CC.</li>
-            </ul> </div>
+          <p>
+            They can be used with syringes ranging
+            in size from 5 to 60mls and have the safety and convenience and
+            safety of a drug library for up to 50 agents
+          </p>
           <a
             href="https://kssproduction.com/ozevac-test/injectomat/"
             class="btn"

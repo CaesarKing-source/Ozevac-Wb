@@ -34,30 +34,30 @@
             </p>
           </div>
           <div class="col">
-            <div class="home-banner-slider">
+            <div class="home-banner-slider">    
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/about-us.jpeg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/2.jpg" alt="" />
                 </figure>
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/home-banner.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/3.jpg" alt="" />
                 </figure>
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/10.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/4.jpg" alt="" />
                 </figure>
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/11.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/5.jpg" alt="" />
                 </figure>
               </div>
               <div>
                 <figure>
-                  <img src="<?php bloginfo('template_directory'); ?>/images/12.jpg" alt="" />
+                  <img src="<?php bloginfo('template_directory'); ?>/images/1.jpg" alt="" />
                 </figure>
               </div>
             </div>
